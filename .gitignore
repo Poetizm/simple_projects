@@ -1,0 +1,11 @@
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Auto generated folders and files
+.idea/
+.vscode/
+*__pycache__/
+.DS_Store
